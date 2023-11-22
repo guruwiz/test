@@ -1,3 +1,3 @@
 # test
 
-![](img/github1.PNG)
+![](img/github1.png)
